@@ -11,4 +11,11 @@
   * Radix UI
 * Lucide React
 
+### Backend
+
+* Prisma
+* Fastify
+* Openai
+* Zod
+
 ## Instalação
